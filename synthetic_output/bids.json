@@ -1,0 +1,4637 @@
+[
+  {
+    "id": "8d6f7c23-f0bd-5a7b-83b0-e8305054f003",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "817dba45-58c9-5ee7-96cb-27ee542fc4e9",
+    "company_id": "CMP-00001",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "48516b0e-b5ef-547c-ac4b-7f67553635c7",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "6438f65b-a470-59b8-8359-a6a239d990e8",
+    "company_id": "CMP-00002",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "d0fea2f4-7d45-5fc9-8a89-9b9b7eeaa42d",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "a82941e0-3520-5493-a043-fdc0b13af64b",
+    "company_id": "CMP-00003",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "7a2f9094-97b3-504d-b0cb-99e660cb5c1f",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "d280ab36-f7b8-59dd-ac2d-8f18fb44541c",
+    "company_id": "CMP-00004",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "6b79737a-6010-52b1-9d8e-6539c3a0f7f9",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "11a980ee-66ee-5b7c-ad9a-a7d599c7a843",
+    "company_id": "CMP-00005",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "3e6be24d-2459-5a8c-81b0-1f33d9dddcd0",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "86540efb-95f6-56a4-b13c-76a236d67ad6",
+    "company_id": "CMP-00006",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "81be3741-9ee4-5fe8-9268-be749357226a",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "6c98778b-088d-5dfa-95cb-7030b480b628",
+    "company_id": "CMP-00007",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "12ee1ded-a622-5955-a37c-3f902e3a2866",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "27292069-ffe8-5cc8-822d-d2abe23c98ee",
+    "company_id": "CMP-00008",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "4371000c-6cec-5993-8c6d-34ec8f5a34ac",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "88d3012e-d4d6-5add-bc79-1bbde5dd8de2",
+    "company_id": "CMP-00009",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "268cea89-c04a-5b22-8f2d-4020af5e8eb7",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "dacae2be-f456-5800-8d7b-6e082d3b40ae",
+    "company_id": "CMP-00010",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "a070b05e-6d95-55fa-b4b5-6f256f436620",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "8eedd42e-a25d-5236-9f22-821e94a2b166",
+    "company_id": "CMP-00011",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "7d40ebf7-9d8a-511c-9e79-c81a7b5e329b",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "09b50919-35db-5dff-9636-47a75c42a9e3",
+    "company_id": "CMP-00012",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "f9965560-d514-5b30-a04d-8292521eada1",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "f00be1f5-125a-564c-b591-8dcc02cdb5ff",
+    "company_id": "CMP-00013",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "1c40ffd2-ca75-56d7-94ea-49835fbe4420",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "0228d238-0616-50ea-834c-013e86974148",
+    "company_id": "CMP-00014",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "d170a953-8392-55c7-9f02-08f83a260b6e",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "e11abef2-87c0-56ba-a986-b69d8786c7e5",
+    "company_id": "CMP-00015",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "1f26a206-e6d9-5350-815e-59923886785d",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "c4d5e71e-1134-5427-8350-0ae0f60613ba",
+    "company_id": "CMP-00016",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "f8a9b098-4327-5982-8759-2efdba4572cb",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "c36e9ee4-d727-5bd6-b44e-5a5b46207ee9",
+    "company_id": "CMP-00017",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "5190ce47-1e25-5c1c-a625-a1f9556fe24c",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "c0f6187a-93b5-5fcb-a072-4aa59167e8bd",
+    "company_id": "CMP-00018",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "4bb739d8-8af7-5f40-a963-20c7ad5b2560",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "5b2ef74d-c9dc-52d0-8be2-a46430bd9517",
+    "company_id": "CMP-00019",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "2f9915d9-8285-5bd6-80e8-fb98c5881d91",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "6d04eb6f-560f-5a93-9d89-9862aec2f2c1",
+    "company_id": "CMP-00020",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "bcc84cc5-ccf1-5e0d-84b1-12b2c3fafaea",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "b6ef695b-49bb-58ae-9ccf-b920d90c94be",
+    "company_id": "CMP-00021",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "3429562f-98e6-53b8-9690-ba799cb094a7",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "fe89ad19-ec0a-59d9-843e-71ff7747b0a7",
+    "company_id": "CMP-00022",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "0e68c6da-08ef-59da-880f-4ad771025482",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "11e8ab08-d58f-56d9-9bba-d2b24705df32",
+    "company_id": "CMP-00023",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "33fc46e6-4521-5898-ab0b-f8d5da24157c",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "fcda0a0d-93b9-5598-a6d6-3eb4d6394bf3",
+    "company_id": "CMP-00024",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "be245b13-05f6-5e1b-8717-4d8d0e708f30",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "cbf47089-e8ea-5c42-bb84-3e7dc994d6cc",
+    "company_id": "CMP-00025",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "42d66d81-834f-5adb-a541-8d6734e4bed3",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "14d5e96b-6b6c-52f3-aea0-2f053118872a",
+    "company_id": "CMP-00026",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "df72febd-9e03-5009-b74e-53c0e21e317c",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "b022eb2e-c48f-5114-a22e-0af4ae2e0f49",
+    "company_id": "CMP-00027",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "1fa27c12-3542-563f-a7ee-3d849050386b",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "7ee98ebd-69f6-5f97-b950-dc794f5d04d9",
+    "company_id": "CMP-00028",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "470e49f6-e967-5aae-ba5b-c2bfe61d9fe8",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "fc3c3e08-1f37-5ae5-bc79-6ffcfbba5cf1",
+    "company_id": "CMP-00029",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "f4148cf1-b78b-5818-9d37-f25d7ff0632f",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "79783368-8f67-57de-8123-8beac559ac55",
+    "company_id": "CMP-00030",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "b77c7407-5205-5778-81fd-a607b51df17d",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "484dbdce-b0f0-5c2a-8702-23bd4c647577",
+    "company_id": "CMP-00031",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "6ad60244-8f45-5d41-b104-0ac2efff9ba9",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "95945aaa-1ded-5903-a9f9-55cc642de0a6",
+    "company_id": "CMP-00032",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "31883c3d-5d58-5b96-9e2d-486ce91ff190",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "3d822a2e-648e-5f5f-9078-737e72d5b627",
+    "company_id": "CMP-00033",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "0aed0f37-2411-5251-9231-4814786bf217",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "9c741b6e-cad2-5ba1-bff4-c3b2714ac5af",
+    "company_id": "CMP-00034",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "04128f59-d2bd-5041-a4dd-152f3d822a36",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "8d2b3d58-3768-5e0c-a412-64577226173d",
+    "company_id": "CMP-00035",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "1642463c-c499-5283-8a60-6a0dc5f882e9",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "16eb6d3d-aa32-5bbc-a318-7892d806fdf9",
+    "company_id": "CMP-00036",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "1781d54a-756f-5288-a298-8cc715936fd6",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "5f21cd8a-c6f9-5e89-8b90-3aed69955087",
+    "company_id": "CMP-00037",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "ed0ffd8f-23a4-5445-95a3-eaf5290cbe08",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "9c72f84f-4695-54ba-b335-bd62643502bd",
+    "company_id": "CMP-00038",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "af5a3446-f0b4-524c-8fbc-35b3164eeda3",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "cd03334d-3536-5a32-872a-70a91ba49047",
+    "company_id": "CMP-00039",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "156b281c-c1f1-5c13-9905-733ea6e28203",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "3c440ab4-2653-56f0-8d3e-b6bf2cf529f4",
+    "company_id": "CMP-00040",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "a06c9d4f-3634-5d10-b438-02f90d60df54",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "91cad7c9-a502-57f8-9c32-46f3f431232a",
+    "company_id": "CMP-00041",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "4da371b2-a8b7-53c9-b259-c2b2051a6cfc",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "72a53f1c-2070-55bb-aeb6-deb477224fb9",
+    "company_id": "CMP-00042",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "f9de5927-6669-57a0-929d-e69c7034c9f2",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "e33bee56-5f19-5407-9947-334846593220",
+    "company_id": "CMP-00043",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "911018bd-0b6a-5624-aa12-3891b31a7a1d",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "0c44d38f-3e42-58fc-b748-785e32d7cc82",
+    "company_id": "CMP-00044",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "16840b3f-22ab-503c-b479-dd0713544c61",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "5a302e53-eb6d-55a7-90c8-b2945751fc14",
+    "company_id": "CMP-00045",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "0027ec24-fb8b-522b-82b5-d3dc1900f478",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "ad332cac-81d2-5e8f-8e33-a55343f9fd31",
+    "company_id": "CMP-00046",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "ec345271-11e8-51a5-95bb-4e543bc8cb33",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "c037d441-d10f-5000-85d5-b5da75ce5975",
+    "company_id": "CMP-00047",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "aec59cf1-a3cd-5f96-934d-8c842ec2bc5b",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "765ed337-4868-526d-ab66-3b0bf044f20b",
+    "company_id": "CMP-00048",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "474686f1-0089-574c-a126-82fade0eca77",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "0855bd7f-2aa5-5615-85a2-4326ecd3155d",
+    "company_id": "CMP-00049",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "b0bf8457-b528-5a82-b4a7-38ffbb65b833",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "da8d6f89-e587-514f-a150-d38a3fada8fe",
+    "company_id": "CMP-00050",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "21d31aab-cd13-54c7-b821-334d97c0397c",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "d242feef-eedf-5972-8042-71c8b5f99711",
+    "company_id": "CMP-00051",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "28009179-fef5-5214-8f9a-9b0a3bdb10c5",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "6986c77a-124d-5599-a5c3-6f75cf5def61",
+    "company_id": "CMP-00052",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "bcdccec7-1633-5b46-999c-da496568d575",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "973bdabb-2d6f-5396-acea-c20bd01ff05e",
+    "company_id": "CMP-00053",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9e25982b-d89c-5879-b96b-65b3f9a7021e",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "df31d300-883a-5930-9979-c7539870addc",
+    "company_id": "CMP-00054",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "0a958eb9-e7b3-5b86-95ea-a6942c9ddbbf",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "1581c7fd-fef2-52cb-89db-b984da49d198",
+    "company_id": "CMP-00055",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "6a99fc00-94b8-5062-9a41-4f7b839f2dd4",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "eb469908-fea0-5a9d-9e29-b4e44e775669",
+    "company_id": "CMP-00056",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "53a1f4f2-a95c-5feb-a618-f2934bbb297c",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "7e32b596-be1c-53f8-bcd8-67e1ebb2edc6",
+    "company_id": "CMP-00057",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "62ff39a8-0b8b-59da-b91f-21beb257ee83",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "540db229-af8b-5ddc-8d63-9572b8a24585",
+    "company_id": "CMP-00058",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "a305f0bb-0fab-5f4c-9b19-fc4399a03328",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "f7406799-11ac-511b-bf8a-5784bd5caf82",
+    "company_id": "CMP-00059",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "910f193c-9725-5a3e-9aa1-3900cc59f034",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "6cbb85fd-16ef-5e75-a15e-98fa282a81d3",
+    "company_id": "CMP-00060",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "cebbd38c-5141-5958-a250-42e4309be1f2",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "273d1b84-92f1-5099-9008-04d4320cba6d",
+    "company_id": "CMP-00061",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "34309106-62be-5df6-bc5c-308eeb0270a2",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "3315ced7-ce97-52f6-8351-dee5ff819e89",
+    "company_id": "CMP-00062",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "78f48355-2017-546c-b129-c5fde590779e",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "5b9d8a85-31a1-5560-b49a-6fe925a9551f",
+    "company_id": "CMP-00063",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "18e71a6a-117d-57b5-8f75-c82fb0e1c778",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "272d7b32-1a89-5265-b4e0-8dc81b7ca046",
+    "company_id": "CMP-00064",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "3ec7cda0-7d6c-52f2-b3cd-28deec1ff19d",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "f0b0793e-935a-5150-9fe6-d8293ec2bf3f",
+    "company_id": "CMP-00065",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "5bb9589d-df99-509f-86a9-6b0151878da4",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "fc0be1de-effc-580a-b0ec-c2726845b2c0",
+    "company_id": "CMP-00066",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "d92cff19-046d-5dfc-90be-2ae6547f6e69",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "dce985bd-c000-5891-8980-9699bdbfeba9",
+    "company_id": "CMP-00067",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "52a2ef5a-6cf6-58bd-9601-9f0b4bf298f7",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "2f2c3992-06c0-57cd-884f-64b37f810723",
+    "company_id": "CMP-00068",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "0fbab5e6-49f5-571c-968c-a065b0072ffb",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "b7038f48-4e2f-5aeb-80cf-3874821ad6ae",
+    "company_id": "CMP-00069",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "412e292f-d26a-5613-9e5a-8eef92257cb2",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "4ad9d94d-7678-5881-82ed-634484a810f6",
+    "company_id": "CMP-00070",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "f0469eec-fd7b-5255-a266-6c8eb576dc89",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "3455738c-5b7f-5d98-b332-80d10eaec3d9",
+    "company_id": "CMP-00071",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "2cc820cb-386a-5b12-9688-eae3302ab9c8",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "cf5ae963-527e-5910-9558-814ad5fc0f53",
+    "company_id": "CMP-00072",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "4f7f4d28-3399-5d8f-8bc6-64e1edcd365a",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "439e53b0-0898-5f03-941f-0810c0969683",
+    "company_id": "CMP-00073",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "d8cecb50-1ace-5d4b-baac-e9292d3a3aa8",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "a18c77bd-c6dd-5229-90ee-9949736e7fba",
+    "company_id": "CMP-00074",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "6c5032db-908b-536e-9c6d-967cbfdd4ede",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "12f80ed8-7244-5667-aa59-a7426d125e27",
+    "company_id": "CMP-00075",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "21d6e78b-6c69-5403-8ebd-dcbca1a26e7d",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "39958252-e869-57ac-b688-3c15db6484f4",
+    "company_id": "CMP-00076",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "1de711a8-605a-5b26-a069-ec85731ca01d",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "f30ab6a3-7856-5de9-aff1-4847d91d8eee",
+    "company_id": "CMP-00077",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "fc03f411-86e5-5642-94ce-331f82e09de5",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "93633d49-3b0a-57d2-accb-961ac7b4102c",
+    "company_id": "CMP-00078",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "27dc5f48-ecb3-5544-ac57-e77e7f3387d1",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "24cde538-b3f8-52f3-a178-e0506e8d1c81",
+    "company_id": "CMP-00079",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "f0f3278d-f12f-56dc-914d-1e68512566b4",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "5ac6e885-e1e8-51d4-baa9-0880c3672b47",
+    "company_id": "CMP-00080",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "bf49b6f3-de2d-5353-91d2-6b0d70f7e6a2",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "571042b3-8e35-5ab9-98d4-1a151bddf61e",
+    "company_id": "CMP-00081",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "7c4a3142-c1ae-596a-974d-95a804f2d0ac",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "cf17497c-2ed6-5da8-a471-d70c9a740dc8",
+    "company_id": "CMP-00082",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "0537e7e8-3089-5ef8-b122-5fd4ce270ccd",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "57932e85-e4ea-5ef0-b614-7f10423e6361",
+    "company_id": "CMP-00083",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "ea0746c2-4d47-586d-a605-aa276f5ef340",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "f7a5fa3f-d67c-5b44-b653-13af430cd8bd",
+    "company_id": "CMP-00084",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "47df8ea4-4291-5686-b571-5270438932e5",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "603f302f-ac14-5867-b6d4-b9fab4e87694",
+    "company_id": "CMP-00085",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "f1411c3b-b4e0-54ce-85c6-b20215b68ef0",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "dca65de4-d1d4-5863-83bb-351b8d1e0a24",
+    "company_id": "CMP-00086",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "00718e1f-719f-5af1-aeec-00b3f121edd6",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "0e7c5181-4a99-57f5-a717-45715cc33324",
+    "company_id": "CMP-00087",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "a4d8ed1f-2fbc-5888-bccd-bf3a55b58b7e",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "cfb36eab-68a5-5446-8e4d-6aa776cfe1ba",
+    "company_id": "CMP-00088",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "71585949-c976-5b9e-94ee-fc6cae220aad",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "9f25e10a-8489-5040-b9e5-fc6ac16fa42f",
+    "company_id": "CMP-00089",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "60fbcfb2-6c49-5f85-b2b6-af4b45d2a527",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "61b27cae-194e-5f06-a0fc-2148c4b819f3",
+    "company_id": "CMP-00090",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "db90c1f4-3501-56d8-956e-935d4eb69c03",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "518ed76d-a004-5193-a9a6-7b32103f1d39",
+    "company_id": "CMP-00091",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "0f3b93ea-ad61-571c-8c6d-c31aad14e27e",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "51991608-68c6-5117-bb51-4a8396123d66",
+    "company_id": "CMP-00092",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "83a41237-c802-5e7f-94ff-0f6d1726f751",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "7e4ef894-74c2-56e9-b143-249f9eeb4824",
+    "company_id": "CMP-00093",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "94b3ebdf-5d7d-5874-a952-201f97d858a6",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "14de7e6a-e269-5200-8221-ce8d8b48fbb7",
+    "company_id": "CMP-00094",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "7152b348-0194-5f3a-94b4-7e5895ce815c",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "be306b34-cfb8-5327-8060-a9dd2c450b18",
+    "company_id": "CMP-00095",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "94f83ba6-26ac-543a-be5d-1668f175d0e3",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "8e141e4d-35f5-5d79-b0a8-93293137ae0f",
+    "company_id": "CMP-00096",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "e58c5ed0-e5fd-5dda-a896-3f440403ceec",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "534bedab-09a1-5b98-a582-90960977244a",
+    "company_id": "CMP-00097",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "ead6df3c-d842-55d1-b9d5-ef75862f6ff6",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "4fb3c34c-7e37-501a-8440-2927c46b0407",
+    "company_id": "CMP-00098",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "f50d6616-f40a-576c-bd6d-f8a31469e1df",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "df6e9f35-e6b5-5926-bc01-42615b9a2e12",
+    "company_id": "CMP-00099",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "9dac3d60-5b7e-54ff-9c74-c89d8ed53894",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "b55ef7b2-1aed-5dfd-aadb-5fd1cec18ee7",
+    "company_id": "CMP-00100",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "62291d5b-d115-5cf8-ae66-efb23bf8904a",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "817dba45-58c9-5ee7-96cb-27ee542fc4e9",
+    "company_id": "CMP-00001",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "65da75ba-7d93-5cc5-b4cb-3f9aff5d98cf",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "6438f65b-a470-59b8-8359-a6a239d990e8",
+    "company_id": "CMP-00002",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "e5ed2aea-3a17-58d7-b814-3cf24ea518ea",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "a82941e0-3520-5493-a043-fdc0b13af64b",
+    "company_id": "CMP-00003",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "920998fe-3391-5e32-8171-71c8a469d04e",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "d280ab36-f7b8-59dd-ac2d-8f18fb44541c",
+    "company_id": "CMP-00004",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "e68e2ddc-bd39-5f7e-a037-5594dc913a8e",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "11a980ee-66ee-5b7c-ad9a-a7d599c7a843",
+    "company_id": "CMP-00005",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "644d4987-4cba-5f75-b55c-fc22b468a747",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "86540efb-95f6-56a4-b13c-76a236d67ad6",
+    "company_id": "CMP-00006",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "e6cc379b-ab6d-5cdd-a660-3d25517b7be2",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "6c98778b-088d-5dfa-95cb-7030b480b628",
+    "company_id": "CMP-00007",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "0b8d8ca2-5482-5fe8-bdbd-d6e3365f593e",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "27292069-ffe8-5cc8-822d-d2abe23c98ee",
+    "company_id": "CMP-00008",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "d4651388-f2c0-55f9-a0a4-36635356e09c",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "88d3012e-d4d6-5add-bc79-1bbde5dd8de2",
+    "company_id": "CMP-00009",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "fa9ad48d-267f-5c0e-86e9-767e98f14aa0",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "dacae2be-f456-5800-8d7b-6e082d3b40ae",
+    "company_id": "CMP-00010",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "be9066da-966a-5b56-b2a6-4fd5ab2ef9d1",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "8eedd42e-a25d-5236-9f22-821e94a2b166",
+    "company_id": "CMP-00011",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "4b60cd5d-485f-5e0f-bd12-bcbb725201ad",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "09b50919-35db-5dff-9636-47a75c42a9e3",
+    "company_id": "CMP-00012",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "90335c01-5041-5820-a6ab-9bd0bf146918",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "f00be1f5-125a-564c-b591-8dcc02cdb5ff",
+    "company_id": "CMP-00013",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "f52d8156-8cee-5f64-a46e-c6fbcd0fc602",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "0228d238-0616-50ea-834c-013e86974148",
+    "company_id": "CMP-00014",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "3a5a82a9-ddee-58af-8c07-bc1b6b984449",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "e11abef2-87c0-56ba-a986-b69d8786c7e5",
+    "company_id": "CMP-00015",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "58c724b1-abb4-50ff-803a-3441c8db0530",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "c4d5e71e-1134-5427-8350-0ae0f60613ba",
+    "company_id": "CMP-00016",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "fc86621f-19f6-54b5-a034-d0ce1afa3cb1",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "c36e9ee4-d727-5bd6-b44e-5a5b46207ee9",
+    "company_id": "CMP-00017",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "366cf4a5-dff7-5cb4-9560-4e9ec901bfad",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "c0f6187a-93b5-5fcb-a072-4aa59167e8bd",
+    "company_id": "CMP-00018",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "a5bf4016-01f3-5ee0-8c52-fa6763dcbc97",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "5b2ef74d-c9dc-52d0-8be2-a46430bd9517",
+    "company_id": "CMP-00019",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "f59cd9eb-9e67-55b8-8b44-5b73847d1597",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "6d04eb6f-560f-5a93-9d89-9862aec2f2c1",
+    "company_id": "CMP-00020",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "40bcf6e8-bf7a-5862-b162-56d5a4cbc6b5",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "b6ef695b-49bb-58ae-9ccf-b920d90c94be",
+    "company_id": "CMP-00021",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "25ba66ce-f498-5638-b0ac-e2a0f487d9c4",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "fe89ad19-ec0a-59d9-843e-71ff7747b0a7",
+    "company_id": "CMP-00022",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "7be1a024-252f-5fa6-be33-a83f55cd2a99",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "11e8ab08-d58f-56d9-9bba-d2b24705df32",
+    "company_id": "CMP-00023",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "b31a229b-0c9f-534b-84b2-96a7ad8eab1b",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "fcda0a0d-93b9-5598-a6d6-3eb4d6394bf3",
+    "company_id": "CMP-00024",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "f65e169b-1776-5981-97ac-be6d7b09699e",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "cbf47089-e8ea-5c42-bb84-3e7dc994d6cc",
+    "company_id": "CMP-00025",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "43194475-1dfa-574b-8e56-35cf5f314589",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "14d5e96b-6b6c-52f3-aea0-2f053118872a",
+    "company_id": "CMP-00026",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "60631136-5409-5390-b7b9-d57e26c95fc8",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "b022eb2e-c48f-5114-a22e-0af4ae2e0f49",
+    "company_id": "CMP-00027",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "fb5cc24f-f229-5b87-8134-fd9ab99d97a7",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "7ee98ebd-69f6-5f97-b950-dc794f5d04d9",
+    "company_id": "CMP-00028",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "0a8b50eb-8ef5-5023-828b-1028937644fa",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "fc3c3e08-1f37-5ae5-bc79-6ffcfbba5cf1",
+    "company_id": "CMP-00029",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "0099c1ca-4182-5ad9-865b-995100073494",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "79783368-8f67-57de-8123-8beac559ac55",
+    "company_id": "CMP-00030",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "0424a035-0a9f-59e3-bbb0-1786d8f23f19",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "484dbdce-b0f0-5c2a-8702-23bd4c647577",
+    "company_id": "CMP-00031",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "52ecc530-9a87-54cc-99e7-16e7a33aa1d0",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "95945aaa-1ded-5903-a9f9-55cc642de0a6",
+    "company_id": "CMP-00032",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "46b35168-958d-5bb4-a7b8-005d1500c38a",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "3d822a2e-648e-5f5f-9078-737e72d5b627",
+    "company_id": "CMP-00033",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "7aba808b-47e9-515f-b1dc-403c54b3a9b3",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "9c741b6e-cad2-5ba1-bff4-c3b2714ac5af",
+    "company_id": "CMP-00034",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "e8329fe7-7e5f-5c33-8c40-859fb8218b0a",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "8d2b3d58-3768-5e0c-a412-64577226173d",
+    "company_id": "CMP-00035",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "2c74a9b9-3d49-5fe9-8d54-4216aefdbab5",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "16eb6d3d-aa32-5bbc-a318-7892d806fdf9",
+    "company_id": "CMP-00036",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "52814623-d0ef-5383-aa90-3f86f5bf4508",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "5f21cd8a-c6f9-5e89-8b90-3aed69955087",
+    "company_id": "CMP-00037",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "b2b14be9-11d8-5598-aeae-af03e450e9d7",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "9c72f84f-4695-54ba-b335-bd62643502bd",
+    "company_id": "CMP-00038",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "8ca235d0-0092-5f5c-9531-33e8b01dcbe7",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "cd03334d-3536-5a32-872a-70a91ba49047",
+    "company_id": "CMP-00039",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "79bcc1f6-7d19-5f9f-932a-55df62a0f2f8",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "3c440ab4-2653-56f0-8d3e-b6bf2cf529f4",
+    "company_id": "CMP-00040",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "934fbc06-3716-52e9-bd05-c3fb9ab4ae9c",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "91cad7c9-a502-57f8-9c32-46f3f431232a",
+    "company_id": "CMP-00041",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "99129419-6d73-5d53-bc52-996e689490d1",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "72a53f1c-2070-55bb-aeb6-deb477224fb9",
+    "company_id": "CMP-00042",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "b96e5e58-179e-5d34-b920-c8ba9693857b",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "e33bee56-5f19-5407-9947-334846593220",
+    "company_id": "CMP-00043",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "5dec0e59-75c7-5d91-bf63-3da4564cdef5",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "0c44d38f-3e42-58fc-b748-785e32d7cc82",
+    "company_id": "CMP-00044",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "5d6c41e2-3cf4-5b9e-8876-450942cf2ebe",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "5a302e53-eb6d-55a7-90c8-b2945751fc14",
+    "company_id": "CMP-00045",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "db282336-229f-55e4-b192-939da08c697b",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "ad332cac-81d2-5e8f-8e33-a55343f9fd31",
+    "company_id": "CMP-00046",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "851ff945-3096-5255-803e-d60af8636cf6",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "c037d441-d10f-5000-85d5-b5da75ce5975",
+    "company_id": "CMP-00047",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "f8ec3bd6-2de6-5a65-8dc5-a3225a0329ce",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "765ed337-4868-526d-ab66-3b0bf044f20b",
+    "company_id": "CMP-00048",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "08d11f65-90c2-5d42-a51e-12c16c78d2ff",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "0855bd7f-2aa5-5615-85a2-4326ecd3155d",
+    "company_id": "CMP-00049",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "057a8bfc-367e-580c-8461-740ce2041af5",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "da8d6f89-e587-514f-a150-d38a3fada8fe",
+    "company_id": "CMP-00050",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "3cbb3e86-58d8-594b-89e8-9629a0fecd3b",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "d242feef-eedf-5972-8042-71c8b5f99711",
+    "company_id": "CMP-00051",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "070924b3-826d-5822-abaf-acf7e8e3c91d",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "6986c77a-124d-5599-a5c3-6f75cf5def61",
+    "company_id": "CMP-00052",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "60146af2-5bd8-5e26-a1f4-4f46153fb80c",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "973bdabb-2d6f-5396-acea-c20bd01ff05e",
+    "company_id": "CMP-00053",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "436cd569-1eaf-5cb0-9f09-474e7c549746",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "df31d300-883a-5930-9979-c7539870addc",
+    "company_id": "CMP-00054",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "a6f3195e-7481-5d2f-a6d6-2635eed28814",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "1581c7fd-fef2-52cb-89db-b984da49d198",
+    "company_id": "CMP-00055",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "d08b1932-15fc-5a6c-aa32-2aedb7814d89",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "eb469908-fea0-5a9d-9e29-b4e44e775669",
+    "company_id": "CMP-00056",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "6ec6c374-72d9-54a1-81c6-523ee1456038",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "7e32b596-be1c-53f8-bcd8-67e1ebb2edc6",
+    "company_id": "CMP-00057",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "41d76bce-7de8-5c03-ac85-94e1934267a2",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "540db229-af8b-5ddc-8d63-9572b8a24585",
+    "company_id": "CMP-00058",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "2d00192c-be46-514e-b93c-c475077756ce",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "f7406799-11ac-511b-bf8a-5784bd5caf82",
+    "company_id": "CMP-00059",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "da8443ad-9872-5bd0-a9c1-63ec03d509df",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "6cbb85fd-16ef-5e75-a15e-98fa282a81d3",
+    "company_id": "CMP-00060",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "6fbddbe6-c255-57db-b26c-7e3dc41f6306",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "273d1b84-92f1-5099-9008-04d4320cba6d",
+    "company_id": "CMP-00061",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "b8fa3a7b-be04-56b8-8355-54c44ca55a13",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "3315ced7-ce97-52f6-8351-dee5ff819e89",
+    "company_id": "CMP-00062",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "d43a4ffb-65b5-5ef8-a14b-6ffda9d9cd45",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "5b9d8a85-31a1-5560-b49a-6fe925a9551f",
+    "company_id": "CMP-00063",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "45c313a1-4e30-51f4-9e16-734585a7662f",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "272d7b32-1a89-5265-b4e0-8dc81b7ca046",
+    "company_id": "CMP-00064",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "0af7d17e-b73e-59ab-8b72-20daa633f2c1",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "f0b0793e-935a-5150-9fe6-d8293ec2bf3f",
+    "company_id": "CMP-00065",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "d731c90f-8e13-5e7f-b95c-366f42d2e440",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "fc0be1de-effc-580a-b0ec-c2726845b2c0",
+    "company_id": "CMP-00066",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "929d6324-f537-593b-a5a9-4bc732d1e6ac",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "dce985bd-c000-5891-8980-9699bdbfeba9",
+    "company_id": "CMP-00067",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "7f2da626-1032-50ba-b79d-6a00994ede57",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "2f2c3992-06c0-57cd-884f-64b37f810723",
+    "company_id": "CMP-00068",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "8e15e3bf-5d53-5a51-b385-f12706f35c74",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "b7038f48-4e2f-5aeb-80cf-3874821ad6ae",
+    "company_id": "CMP-00069",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "e80cce0c-d988-5415-b5e0-de1d80121c70",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "4ad9d94d-7678-5881-82ed-634484a810f6",
+    "company_id": "CMP-00070",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "c6b353ae-2a88-51e3-91bf-4d9ab28f42b1",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "3455738c-5b7f-5d98-b332-80d10eaec3d9",
+    "company_id": "CMP-00071",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "81cbf21b-2c19-5838-86e3-d31a739b3cc7",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "cf5ae963-527e-5910-9558-814ad5fc0f53",
+    "company_id": "CMP-00072",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "50be9ff3-d359-5a81-aedc-eb095941fb5a",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "439e53b0-0898-5f03-941f-0810c0969683",
+    "company_id": "CMP-00073",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "0666426c-756e-5315-be42-fd847c2b500e",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "a18c77bd-c6dd-5229-90ee-9949736e7fba",
+    "company_id": "CMP-00074",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "70a99f84-a742-52a0-9be1-9122176be228",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "12f80ed8-7244-5667-aa59-a7426d125e27",
+    "company_id": "CMP-00075",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "9acdbe5f-bc3f-5984-97d1-6c0c106d5895",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "39958252-e869-57ac-b688-3c15db6484f4",
+    "company_id": "CMP-00076",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "1d00dbcc-0ebf-5c89-8f0b-70d0f29fb737",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "f30ab6a3-7856-5de9-aff1-4847d91d8eee",
+    "company_id": "CMP-00077",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "4c90a23f-5d37-5bd0-8e37-f6fcae07bd4b",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "93633d49-3b0a-57d2-accb-961ac7b4102c",
+    "company_id": "CMP-00078",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "6b63b02f-d7f1-5b26-abb2-55648d197b8e",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "24cde538-b3f8-52f3-a178-e0506e8d1c81",
+    "company_id": "CMP-00079",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "fe7e5603-f5cd-5d7d-9c53-e8a4f3df58d3",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "5ac6e885-e1e8-51d4-baa9-0880c3672b47",
+    "company_id": "CMP-00080",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "3ba98f35-1575-5714-a7cd-a10efcd3f3b6",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "571042b3-8e35-5ab9-98d4-1a151bddf61e",
+    "company_id": "CMP-00081",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "d8a0e276-ac09-528c-9207-3e456de7b054",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "cf17497c-2ed6-5da8-a471-d70c9a740dc8",
+    "company_id": "CMP-00082",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "58f905c8-468d-5040-a33f-793df373cbb1",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "57932e85-e4ea-5ef0-b614-7f10423e6361",
+    "company_id": "CMP-00083",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "80ca77d7-cbb9-5668-aead-277c7d56247a",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "f7a5fa3f-d67c-5b44-b653-13af430cd8bd",
+    "company_id": "CMP-00084",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "8f7a52f2-2426-58c2-b5a5-85c39293d912",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "603f302f-ac14-5867-b6d4-b9fab4e87694",
+    "company_id": "CMP-00085",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "9d75b656-9404-5b04-a61e-36e5ab7e57eb",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "dca65de4-d1d4-5863-83bb-351b8d1e0a24",
+    "company_id": "CMP-00086",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "1cce62c8-6f86-5c09-bbed-a29a1e5fb343",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "0e7c5181-4a99-57f5-a717-45715cc33324",
+    "company_id": "CMP-00087",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "93022f17-12dd-59eb-9909-040df2025aad",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "cfb36eab-68a5-5446-8e4d-6aa776cfe1ba",
+    "company_id": "CMP-00088",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "31a52674-eab0-5a0b-b45d-1eec3182472f",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "9f25e10a-8489-5040-b9e5-fc6ac16fa42f",
+    "company_id": "CMP-00089",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "61152d62-1e9d-538f-987f-79705841e638",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "61b27cae-194e-5f06-a0fc-2148c4b819f3",
+    "company_id": "CMP-00090",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "4982e25b-a2cc-55a3-a9cd-ac8b9c058657",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "518ed76d-a004-5193-a9a6-7b32103f1d39",
+    "company_id": "CMP-00091",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "7b4c0ce6-45b5-538b-8d71-43759664124c",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "51991608-68c6-5117-bb51-4a8396123d66",
+    "company_id": "CMP-00092",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "c9557111-12e2-595d-954b-f24b6283efe4",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "7e4ef894-74c2-56e9-b143-249f9eeb4824",
+    "company_id": "CMP-00093",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "9b3c1589-9caa-5c3e-abba-caa25717fef2",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "14de7e6a-e269-5200-8221-ce8d8b48fbb7",
+    "company_id": "CMP-00094",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "c65e853a-e92c-5442-89db-3d0ea547432d",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "be306b34-cfb8-5327-8060-a9dd2c450b18",
+    "company_id": "CMP-00095",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "7df5c5f1-ba10-5a96-af1e-d2ba76cab7b2",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "8e141e4d-35f5-5d79-b0a8-93293137ae0f",
+    "company_id": "CMP-00096",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "e2059dab-e7f9-567f-8331-7a8dd954ebac",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "534bedab-09a1-5b98-a582-90960977244a",
+    "company_id": "CMP-00097",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "bbae01c6-c8fd-581e-a945-bcf3b0e2d2c1",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "4fb3c34c-7e37-501a-8440-2927c46b0407",
+    "company_id": "CMP-00098",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "d2172e13-f19d-57e2-95d4-10a336e4de0c",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "df6e9f35-e6b5-5926-bc01-42615b9a2e12",
+    "company_id": "CMP-00099",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "a45bfe84-abae-5e62-ab62-7c86b81c23dd",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "b55ef7b2-1aed-5dfd-aadb-5fd1cec18ee7",
+    "company_id": "CMP-00100",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "a5db1e0e-3bfe-5d28-83cd-815b90354000",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "817dba45-58c9-5ee7-96cb-27ee542fc4e9",
+    "company_id": "CMP-00001",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "c40be1a7-c3ed-5d13-a2fb-23b9db6ee020",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "6438f65b-a470-59b8-8359-a6a239d990e8",
+    "company_id": "CMP-00002",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "7bca8ac1-9b03-5a35-a26a-51b6d0288980",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "a82941e0-3520-5493-a043-fdc0b13af64b",
+    "company_id": "CMP-00003",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "a884e5b2-aed8-5ec5-905c-a5cbaf52ba7d",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "d280ab36-f7b8-59dd-ac2d-8f18fb44541c",
+    "company_id": "CMP-00004",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "e8d1d5ac-e568-5d34-98f2-75c8cced261f",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "11a980ee-66ee-5b7c-ad9a-a7d599c7a843",
+    "company_id": "CMP-00005",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "c8823c89-8719-5549-aaae-4e109931b02e",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "86540efb-95f6-56a4-b13c-76a236d67ad6",
+    "company_id": "CMP-00006",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "30ec4bf8-6739-559c-9b98-58eb8e8cc0f0",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "6c98778b-088d-5dfa-95cb-7030b480b628",
+    "company_id": "CMP-00007",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "cec64018-9f67-5ec3-84be-d933c4e5b736",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "27292069-ffe8-5cc8-822d-d2abe23c98ee",
+    "company_id": "CMP-00008",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "590beffa-cb5e-5c02-8834-6a10c9de5c05",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "88d3012e-d4d6-5add-bc79-1bbde5dd8de2",
+    "company_id": "CMP-00009",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "74efdba1-73e8-5ed2-8e73-15aa6ba812d7",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "dacae2be-f456-5800-8d7b-6e082d3b40ae",
+    "company_id": "CMP-00010",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "f4848793-d4ac-58fc-ac7b-62a1bb13e26f",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "8eedd42e-a25d-5236-9f22-821e94a2b166",
+    "company_id": "CMP-00011",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "0b65a621-3144-5041-bf44-fedb50312931",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "09b50919-35db-5dff-9636-47a75c42a9e3",
+    "company_id": "CMP-00012",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "18654d89-152a-5044-a34d-47d24f584ae1",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "f00be1f5-125a-564c-b591-8dcc02cdb5ff",
+    "company_id": "CMP-00013",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "8221890b-0330-5a6d-8716-332d1f38370b",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "0228d238-0616-50ea-834c-013e86974148",
+    "company_id": "CMP-00014",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "dafc8577-4a71-5fbd-862d-03dd838481b9",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "e11abef2-87c0-56ba-a986-b69d8786c7e5",
+    "company_id": "CMP-00015",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "2517edd5-b54b-5ccc-ac0b-0e9ffbfbfe14",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "c4d5e71e-1134-5427-8350-0ae0f60613ba",
+    "company_id": "CMP-00016",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "8e1cb947-2d97-5849-94d1-59161c243151",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "c36e9ee4-d727-5bd6-b44e-5a5b46207ee9",
+    "company_id": "CMP-00017",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "a72c70d5-86fc-58e6-8d0f-d66b94ecdf71",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "c0f6187a-93b5-5fcb-a072-4aa59167e8bd",
+    "company_id": "CMP-00018",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "5c955e81-83df-5671-961e-8b0c0c65d888",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "5b2ef74d-c9dc-52d0-8be2-a46430bd9517",
+    "company_id": "CMP-00019",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "c2598b45-4f29-5b6f-bba0-89a043d38083",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "6d04eb6f-560f-5a93-9d89-9862aec2f2c1",
+    "company_id": "CMP-00020",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "d8166ee3-cb0d-5103-984b-7309bac89e90",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "b6ef695b-49bb-58ae-9ccf-b920d90c94be",
+    "company_id": "CMP-00021",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "d97ddead-20dc-5e8a-8402-923a280ec752",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "fe89ad19-ec0a-59d9-843e-71ff7747b0a7",
+    "company_id": "CMP-00022",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "9695cff9-be9b-5689-9d07-b702e6dc070f",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "11e8ab08-d58f-56d9-9bba-d2b24705df32",
+    "company_id": "CMP-00023",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "54302b82-dc94-541a-91bb-e137e2948adc",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "fcda0a0d-93b9-5598-a6d6-3eb4d6394bf3",
+    "company_id": "CMP-00024",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "8f5fe2b7-c750-5bd7-aa1f-ac0170405c13",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "cbf47089-e8ea-5c42-bb84-3e7dc994d6cc",
+    "company_id": "CMP-00025",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "2c5e2725-562c-5a0c-8cc4-9d416d3f9bab",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "14d5e96b-6b6c-52f3-aea0-2f053118872a",
+    "company_id": "CMP-00026",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "b340114e-2cb1-54a4-9b15-b5f10675ef9e",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "b022eb2e-c48f-5114-a22e-0af4ae2e0f49",
+    "company_id": "CMP-00027",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "3f3fd511-edb3-5eb4-8326-6cd7fb8eab2d",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "7ee98ebd-69f6-5f97-b950-dc794f5d04d9",
+    "company_id": "CMP-00028",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "01a4758d-566e-5783-beb6-1c6c5b594d74",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "fc3c3e08-1f37-5ae5-bc79-6ffcfbba5cf1",
+    "company_id": "CMP-00029",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "2a5bf266-5e0c-5dc5-9a5b-21c8c6bce5da",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "79783368-8f67-57de-8123-8beac559ac55",
+    "company_id": "CMP-00030",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "f07c336b-9cab-5bf7-9855-85e2aeb90242",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "484dbdce-b0f0-5c2a-8702-23bd4c647577",
+    "company_id": "CMP-00031",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "8e455efe-40d2-5626-8e96-8c6a6f0e0e40",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "95945aaa-1ded-5903-a9f9-55cc642de0a6",
+    "company_id": "CMP-00032",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "a812e4d1-2454-5c5a-ace2-24e39c390086",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "3d822a2e-648e-5f5f-9078-737e72d5b627",
+    "company_id": "CMP-00033",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "4607b2df-b336-58ad-995f-9d8f655ef54d",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "9c741b6e-cad2-5ba1-bff4-c3b2714ac5af",
+    "company_id": "CMP-00034",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "d74b0e18-16a4-5040-a303-da3243857c1e",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "8d2b3d58-3768-5e0c-a412-64577226173d",
+    "company_id": "CMP-00035",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9d8d5b74-eb03-5965-b500-5bbaf07a408a",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "16eb6d3d-aa32-5bbc-a318-7892d806fdf9",
+    "company_id": "CMP-00036",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "de7ba5ca-ef14-560e-a067-c7bedfcf20a7",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "5f21cd8a-c6f9-5e89-8b90-3aed69955087",
+    "company_id": "CMP-00037",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "bc3b844b-0ff9-5231-a1c4-12a6c253d8e2",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "9c72f84f-4695-54ba-b335-bd62643502bd",
+    "company_id": "CMP-00038",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "878fc970-4658-5da6-9d02-825382f85af7",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "cd03334d-3536-5a32-872a-70a91ba49047",
+    "company_id": "CMP-00039",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "048338e5-1f47-5eac-b8e6-895c9a7c247b",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "3c440ab4-2653-56f0-8d3e-b6bf2cf529f4",
+    "company_id": "CMP-00040",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "12f1625b-080e-5a17-a765-c9b5b2f2204c",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "91cad7c9-a502-57f8-9c32-46f3f431232a",
+    "company_id": "CMP-00041",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "d76cd1b4-3e9a-5e9c-a817-e80bcdfc358b",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "72a53f1c-2070-55bb-aeb6-deb477224fb9",
+    "company_id": "CMP-00042",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "75fe7d2b-f9f9-57b8-bdf2-c5cf990aa906",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "e33bee56-5f19-5407-9947-334846593220",
+    "company_id": "CMP-00043",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "d215ca9f-95a5-576e-9820-774283b2a0df",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "0c44d38f-3e42-58fc-b748-785e32d7cc82",
+    "company_id": "CMP-00044",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "955259f1-0228-53dd-8826-bec0cbf8f7e1",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "5a302e53-eb6d-55a7-90c8-b2945751fc14",
+    "company_id": "CMP-00045",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "82c7d518-24b3-560f-b476-d4ba3220f9a3",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "ad332cac-81d2-5e8f-8e33-a55343f9fd31",
+    "company_id": "CMP-00046",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "13c5e273-75eb-5681-be28-0170b14aaf36",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "c037d441-d10f-5000-85d5-b5da75ce5975",
+    "company_id": "CMP-00047",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "08ec167b-3994-5923-94cb-e28702972c73",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "765ed337-4868-526d-ab66-3b0bf044f20b",
+    "company_id": "CMP-00048",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "e10a735b-b048-5565-a448-b3d184f58664",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "0855bd7f-2aa5-5615-85a2-4326ecd3155d",
+    "company_id": "CMP-00049",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "c128e9c7-e172-556a-82ff-106829538295",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "da8d6f89-e587-514f-a150-d38a3fada8fe",
+    "company_id": "CMP-00050",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "3153f4c4-a63c-56c6-84a0-32195a946bcd",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "d242feef-eedf-5972-8042-71c8b5f99711",
+    "company_id": "CMP-00051",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "86a6b345-bc09-5189-86e0-8af70c8223b0",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "6986c77a-124d-5599-a5c3-6f75cf5def61",
+    "company_id": "CMP-00052",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "f3b473f0-0f68-517e-8de3-0ef3a3d438fd",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "973bdabb-2d6f-5396-acea-c20bd01ff05e",
+    "company_id": "CMP-00053",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "cf5ea028-0995-5735-ac99-7913c986ea29",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "df31d300-883a-5930-9979-c7539870addc",
+    "company_id": "CMP-00054",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "87ad80c3-982a-5b4d-a00d-0cf8d37107d1",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "1581c7fd-fef2-52cb-89db-b984da49d198",
+    "company_id": "CMP-00055",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "114e0882-fa36-54c9-a4bf-417aa0f8f700",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "eb469908-fea0-5a9d-9e29-b4e44e775669",
+    "company_id": "CMP-00056",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "b512d8a3-aab1-5bfa-868a-8e7c10e6def6",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "7e32b596-be1c-53f8-bcd8-67e1ebb2edc6",
+    "company_id": "CMP-00057",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "859e9d0b-08d4-5dd5-a08e-e3bafeabe3be",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "540db229-af8b-5ddc-8d63-9572b8a24585",
+    "company_id": "CMP-00058",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "d3419f50-14e9-5a7f-a740-961907a58a05",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "f7406799-11ac-511b-bf8a-5784bd5caf82",
+    "company_id": "CMP-00059",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "bd307a90-d199-5cc0-87ef-a4255c831fae",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "6cbb85fd-16ef-5e75-a15e-98fa282a81d3",
+    "company_id": "CMP-00060",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "a5a397f7-1416-58dc-a841-30cf33e0b300",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "273d1b84-92f1-5099-9008-04d4320cba6d",
+    "company_id": "CMP-00061",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "5424db03-c66b-5de5-aaae-5e97cf8c1868",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "3315ced7-ce97-52f6-8351-dee5ff819e89",
+    "company_id": "CMP-00062",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "67c1245c-5ee4-573b-94cc-73e464ce966e",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "5b9d8a85-31a1-5560-b49a-6fe925a9551f",
+    "company_id": "CMP-00063",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "ac26db26-f0eb-5c18-83c8-be75da9f7654",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "272d7b32-1a89-5265-b4e0-8dc81b7ca046",
+    "company_id": "CMP-00064",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "0fd278e4-5869-501d-b82c-62742e043926",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "f0b0793e-935a-5150-9fe6-d8293ec2bf3f",
+    "company_id": "CMP-00065",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "47596f0f-42a1-5b1f-b86b-3b4f95cc3078",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "fc0be1de-effc-580a-b0ec-c2726845b2c0",
+    "company_id": "CMP-00066",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "c8c47fbf-68b5-5c0f-8366-3b5493afb748",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "dce985bd-c000-5891-8980-9699bdbfeba9",
+    "company_id": "CMP-00067",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "db24a679-f383-5e82-bcb9-fa3dba464bd3",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "2f2c3992-06c0-57cd-884f-64b37f810723",
+    "company_id": "CMP-00068",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "f903c914-b5b4-57cd-8b37-a902e4f00145",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "b7038f48-4e2f-5aeb-80cf-3874821ad6ae",
+    "company_id": "CMP-00069",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9d388583-52b2-553c-93fe-366d0a3eeae4",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "4ad9d94d-7678-5881-82ed-634484a810f6",
+    "company_id": "CMP-00070",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "51934136-b06a-57a0-9277-293f8ce08ab2",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "3455738c-5b7f-5d98-b332-80d10eaec3d9",
+    "company_id": "CMP-00071",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "09f67628-e641-5c71-8311-40fb12f2fc69",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "cf5ae963-527e-5910-9558-814ad5fc0f53",
+    "company_id": "CMP-00072",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "077fe665-e056-51b7-a517-05dfa8c47ad3",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "439e53b0-0898-5f03-941f-0810c0969683",
+    "company_id": "CMP-00073",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "b5ab6a25-9cd4-51f6-b68a-57701784902d",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "a18c77bd-c6dd-5229-90ee-9949736e7fba",
+    "company_id": "CMP-00074",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "cc6c1adf-0248-51f9-9089-199d68b4fb42",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "12f80ed8-7244-5667-aa59-a7426d125e27",
+    "company_id": "CMP-00075",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "3657fe11-1f21-5248-8d5c-ae8f4ee5c86e",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "39958252-e869-57ac-b688-3c15db6484f4",
+    "company_id": "CMP-00076",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "1dbb9ebb-4816-5150-bb6a-6f34d3fc1a55",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "f30ab6a3-7856-5de9-aff1-4847d91d8eee",
+    "company_id": "CMP-00077",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "93bf0367-ce2d-5892-8c3f-f85931abcd28",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "93633d49-3b0a-57d2-accb-961ac7b4102c",
+    "company_id": "CMP-00078",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "ff225c5e-c94c-50db-a8a9-b7db3060e2fc",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "24cde538-b3f8-52f3-a178-e0506e8d1c81",
+    "company_id": "CMP-00079",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "afac8a70-e1ec-5505-a18a-323240525254",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "5ac6e885-e1e8-51d4-baa9-0880c3672b47",
+    "company_id": "CMP-00080",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "e2534fed-a1a6-5e7d-b4e6-84ea10178c71",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "571042b3-8e35-5ab9-98d4-1a151bddf61e",
+    "company_id": "CMP-00081",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "54f78754-9adc-55b9-bb62-da6820fa645f",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "cf17497c-2ed6-5da8-a471-d70c9a740dc8",
+    "company_id": "CMP-00082",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "7c7f6d83-82b6-52ad-b0c5-7b87f622757b",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "57932e85-e4ea-5ef0-b614-7f10423e6361",
+    "company_id": "CMP-00083",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "5364de90-2dcf-57ff-b716-ca8f3d420356",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "f7a5fa3f-d67c-5b44-b653-13af430cd8bd",
+    "company_id": "CMP-00084",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "5579e7c5-1da5-5576-9102-75ce7ce59dc9",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "603f302f-ac14-5867-b6d4-b9fab4e87694",
+    "company_id": "CMP-00085",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "acab8bfb-dda9-5b77-8e83-750fe82ec468",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "dca65de4-d1d4-5863-83bb-351b8d1e0a24",
+    "company_id": "CMP-00086",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "98086da7-913e-517c-bc13-b8f36f395e78",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "0e7c5181-4a99-57f5-a717-45715cc33324",
+    "company_id": "CMP-00087",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "669745a8-43ec-5a99-941c-2cbe98a88f99",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "cfb36eab-68a5-5446-8e4d-6aa776cfe1ba",
+    "company_id": "CMP-00088",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "a63c18d9-8468-5c03-9534-2a1a6abf6938",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "9f25e10a-8489-5040-b9e5-fc6ac16fa42f",
+    "company_id": "CMP-00089",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "c9e17236-a33a-519d-b046-8f1983562300",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "61b27cae-194e-5f06-a0fc-2148c4b819f3",
+    "company_id": "CMP-00090",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "27326a11-8e1c-51d3-a4a0-6b1a96109d3a",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "518ed76d-a004-5193-a9a6-7b32103f1d39",
+    "company_id": "CMP-00091",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "75579dd8-ff10-56eb-b2b3-cbc76a66dce9",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "51991608-68c6-5117-bb51-4a8396123d66",
+    "company_id": "CMP-00092",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "994aaa55-6b36-534a-acdd-fff49cc53920",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "7e4ef894-74c2-56e9-b143-249f9eeb4824",
+    "company_id": "CMP-00093",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "6b388bf3-494f-5400-ba67-51c2568092e3",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "14de7e6a-e269-5200-8221-ce8d8b48fbb7",
+    "company_id": "CMP-00094",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "a4605eae-131a-5b5d-96aa-51f27bd19f21",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "be306b34-cfb8-5327-8060-a9dd2c450b18",
+    "company_id": "CMP-00095",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "1b31c6bb-716a-5a13-a17b-7fd265169402",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "8e141e4d-35f5-5d79-b0a8-93293137ae0f",
+    "company_id": "CMP-00096",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "453e310c-ea8e-553f-b928-76654d452594",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "534bedab-09a1-5b98-a582-90960977244a",
+    "company_id": "CMP-00097",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "9f76bb76-8774-5714-a4e7-dfc4ba026185",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "4fb3c34c-7e37-501a-8440-2927c46b0407",
+    "company_id": "CMP-00098",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "cf36547b-e32f-5a98-9b3c-82a3814e0f51",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "df6e9f35-e6b5-5926-bc01-42615b9a2e12",
+    "company_id": "CMP-00099",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "d280cf40-03c4-5ec2-8ce7-386f0d85b4c9",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "b55ef7b2-1aed-5dfd-aadb-5fd1cec18ee7",
+    "company_id": "CMP-00100",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "fb8e631e-f77b-54c6-9f71-05c68e152f3f",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "817dba45-58c9-5ee7-96cb-27ee542fc4e9",
+    "company_id": "CMP-00001",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "21fe5f48-3ad1-55cd-9d76-72e5d67890d8",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "6438f65b-a470-59b8-8359-a6a239d990e8",
+    "company_id": "CMP-00002",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "f55b2089-4284-53f3-9925-45e509423c28",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "a82941e0-3520-5493-a043-fdc0b13af64b",
+    "company_id": "CMP-00003",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "b9e1536c-075f-5cdb-a01d-83e9ff844329",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "d280ab36-f7b8-59dd-ac2d-8f18fb44541c",
+    "company_id": "CMP-00004",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "7ce8e2d5-bb8f-5694-b6dd-37b96131ed0b",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "11a980ee-66ee-5b7c-ad9a-a7d599c7a843",
+    "company_id": "CMP-00005",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9edd68cc-9f85-5ae7-932b-8c9d82f736da",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "86540efb-95f6-56a4-b13c-76a236d67ad6",
+    "company_id": "CMP-00006",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "01b13139-98ae-5fe8-8259-3168261b637a",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "6c98778b-088d-5dfa-95cb-7030b480b628",
+    "company_id": "CMP-00007",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "c54eb334-1454-5592-900d-728e19ca1526",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "27292069-ffe8-5cc8-822d-d2abe23c98ee",
+    "company_id": "CMP-00008",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "c543ce5e-a8dc-5e94-8e9c-3d5946f23419",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "88d3012e-d4d6-5add-bc79-1bbde5dd8de2",
+    "company_id": "CMP-00009",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9768066b-0beb-5dca-a0e2-25bf0d425832",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "dacae2be-f456-5800-8d7b-6e082d3b40ae",
+    "company_id": "CMP-00010",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "9d2f0a3e-45b4-5bbe-a1ad-9c001dcdbcdd",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "8eedd42e-a25d-5236-9f22-821e94a2b166",
+    "company_id": "CMP-00011",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "56333908-3138-567b-af05-81b65c1d1408",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "09b50919-35db-5dff-9636-47a75c42a9e3",
+    "company_id": "CMP-00012",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "49f2461c-5e8e-569f-b291-4dc6f5f90696",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "f00be1f5-125a-564c-b591-8dcc02cdb5ff",
+    "company_id": "CMP-00013",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "c9397415-570d-5237-87bb-93dd6f5344a8",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "0228d238-0616-50ea-834c-013e86974148",
+    "company_id": "CMP-00014",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "ca7d974a-0810-5f0e-bb64-1d9242ee12e0",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "e11abef2-87c0-56ba-a986-b69d8786c7e5",
+    "company_id": "CMP-00015",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "16586fc8-702a-5127-a756-6b9f62e7ad7e",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "c4d5e71e-1134-5427-8350-0ae0f60613ba",
+    "company_id": "CMP-00016",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "04cbc751-c5e4-575b-8825-50e01f99d051",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "c36e9ee4-d727-5bd6-b44e-5a5b46207ee9",
+    "company_id": "CMP-00017",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "3c02a2a0-6c72-53d1-9aa5-7be4069e3125",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "c0f6187a-93b5-5fcb-a072-4aa59167e8bd",
+    "company_id": "CMP-00018",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "68a91c8a-4677-52c8-b9ef-2bff58f1f6e0",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "5b2ef74d-c9dc-52d0-8be2-a46430bd9517",
+    "company_id": "CMP-00019",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "f955c23c-61ed-5464-a214-bde374511d71",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "6d04eb6f-560f-5a93-9d89-9862aec2f2c1",
+    "company_id": "CMP-00020",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "022cc659-7137-50c3-9f9c-8a9ad0f3f8c9",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "b6ef695b-49bb-58ae-9ccf-b920d90c94be",
+    "company_id": "CMP-00021",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "52ae69ec-9c25-53a8-b9d9-4181c895e152",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "fe89ad19-ec0a-59d9-843e-71ff7747b0a7",
+    "company_id": "CMP-00022",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "b1bc1177-e6be-559f-84d9-d498a0721284",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "11e8ab08-d58f-56d9-9bba-d2b24705df32",
+    "company_id": "CMP-00023",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "88404d3d-8a75-55a2-9f68-8267969fa4a1",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "fcda0a0d-93b9-5598-a6d6-3eb4d6394bf3",
+    "company_id": "CMP-00024",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "e1f24dad-3586-5e34-9a94-7355890125be",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "cbf47089-e8ea-5c42-bb84-3e7dc994d6cc",
+    "company_id": "CMP-00025",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "63b38dbe-3678-5959-a181-b0804d4f5b94",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "14d5e96b-6b6c-52f3-aea0-2f053118872a",
+    "company_id": "CMP-00026",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "98a41416-e53a-5810-a779-0bd435be5c48",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "b022eb2e-c48f-5114-a22e-0af4ae2e0f49",
+    "company_id": "CMP-00027",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "189d84e6-e9d2-5926-b5d2-c035559eb808",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "7ee98ebd-69f6-5f97-b950-dc794f5d04d9",
+    "company_id": "CMP-00028",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "bd147cd4-71ee-55be-9dc9-71c81fe1feb9",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "fc3c3e08-1f37-5ae5-bc79-6ffcfbba5cf1",
+    "company_id": "CMP-00029",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "e88d842c-bfc6-5bd2-8f6a-84a1f7b3c71c",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "79783368-8f67-57de-8123-8beac559ac55",
+    "company_id": "CMP-00030",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9a7b29a8-c0b1-5be5-9960-25d1df3c13f7",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "484dbdce-b0f0-5c2a-8702-23bd4c647577",
+    "company_id": "CMP-00031",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "a92a4205-71ec-515f-aa97-1cbb9db74ae5",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "95945aaa-1ded-5903-a9f9-55cc642de0a6",
+    "company_id": "CMP-00032",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "a2ee4eaa-35c3-53b4-a1bd-145776fa484c",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "3d822a2e-648e-5f5f-9078-737e72d5b627",
+    "company_id": "CMP-00033",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "01377039-1586-56bf-b919-521880191cca",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "9c741b6e-cad2-5ba1-bff4-c3b2714ac5af",
+    "company_id": "CMP-00034",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "86eafcf0-c124-502c-acd3-1d1f3c6d5a14",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "8d2b3d58-3768-5e0c-a412-64577226173d",
+    "company_id": "CMP-00035",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "25d4a632-49a4-5624-9a67-5e5b12a3d1cf",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "16eb6d3d-aa32-5bbc-a318-7892d806fdf9",
+    "company_id": "CMP-00036",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "6994dee5-0827-569a-a984-8561c36068eb",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "5f21cd8a-c6f9-5e89-8b90-3aed69955087",
+    "company_id": "CMP-00037",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "c60947fd-88bc-5dd2-8a8b-b42ca1f6f029",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "9c72f84f-4695-54ba-b335-bd62643502bd",
+    "company_id": "CMP-00038",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "d521a7b2-50f8-5cf7-95e8-5c840ff91d00",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "cd03334d-3536-5a32-872a-70a91ba49047",
+    "company_id": "CMP-00039",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "0d79c4b5-05bc-5d9b-a709-10a4856bd775",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "3c440ab4-2653-56f0-8d3e-b6bf2cf529f4",
+    "company_id": "CMP-00040",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "98f81f06-21cf-5212-8935-538ce48d796f",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "91cad7c9-a502-57f8-9c32-46f3f431232a",
+    "company_id": "CMP-00041",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "232b5515-f480-5e98-9be8-91183afed1ca",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "72a53f1c-2070-55bb-aeb6-deb477224fb9",
+    "company_id": "CMP-00042",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "f9abbb78-4dd5-54f8-acdf-1b66d7edc86d",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "e33bee56-5f19-5407-9947-334846593220",
+    "company_id": "CMP-00043",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "13b46840-48bb-52a1-ab0c-ef19c2748c73",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "0c44d38f-3e42-58fc-b748-785e32d7cc82",
+    "company_id": "CMP-00044",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "a447ad02-fd55-550f-8963-4224d62b00ee",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "5a302e53-eb6d-55a7-90c8-b2945751fc14",
+    "company_id": "CMP-00045",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "fc3acf30-59eb-5ed5-b8ca-934cd758c010",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "ad332cac-81d2-5e8f-8e33-a55343f9fd31",
+    "company_id": "CMP-00046",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "4f2d68f0-955c-5715-964f-ea81109e8f60",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "c037d441-d10f-5000-85d5-b5da75ce5975",
+    "company_id": "CMP-00047",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "73021b8d-e5a0-5ccd-925d-25de1de4f9c8",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "765ed337-4868-526d-ab66-3b0bf044f20b",
+    "company_id": "CMP-00048",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "33e96b5b-5b04-5788-b447-1c344fc824d0",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "0855bd7f-2aa5-5615-85a2-4326ecd3155d",
+    "company_id": "CMP-00049",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "22af0a16-c7f9-5b51-8741-42c0da3b2b3d",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "da8d6f89-e587-514f-a150-d38a3fada8fe",
+    "company_id": "CMP-00050",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "6198590f-5863-5810-87c3-c38c51f6d32a",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "d242feef-eedf-5972-8042-71c8b5f99711",
+    "company_id": "CMP-00051",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "b68c6e15-0430-5a7e-821c-ebbf86750054",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "6986c77a-124d-5599-a5c3-6f75cf5def61",
+    "company_id": "CMP-00052",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "22f1d32e-f450-5185-92e0-839ce0abf518",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "973bdabb-2d6f-5396-acea-c20bd01ff05e",
+    "company_id": "CMP-00053",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "f8090faf-c78d-5edf-9f2d-aed85b744b53",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "df31d300-883a-5930-9979-c7539870addc",
+    "company_id": "CMP-00054",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "16f8748e-6c68-5b62-ad62-0cce95f55077",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "1581c7fd-fef2-52cb-89db-b984da49d198",
+    "company_id": "CMP-00055",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "caba419c-aea7-504b-b03b-9e2b23a40990",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "eb469908-fea0-5a9d-9e29-b4e44e775669",
+    "company_id": "CMP-00056",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "fd72c775-7bdd-5347-a199-3b64e4bf1d7d",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "7e32b596-be1c-53f8-bcd8-67e1ebb2edc6",
+    "company_id": "CMP-00057",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "f2d3c26b-7915-5cb9-ae38-d63646937d9d",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "540db229-af8b-5ddc-8d63-9572b8a24585",
+    "company_id": "CMP-00058",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "26209946-d715-59cf-ae88-1bfafc3130d4",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "f7406799-11ac-511b-bf8a-5784bd5caf82",
+    "company_id": "CMP-00059",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "0343efb9-54b5-574e-b6d0-32fee040f651",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "6cbb85fd-16ef-5e75-a15e-98fa282a81d3",
+    "company_id": "CMP-00060",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "89f57d4f-5e23-5f32-8ae6-2729fe9821e0",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "273d1b84-92f1-5099-9008-04d4320cba6d",
+    "company_id": "CMP-00061",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "e9379282-5bb4-5660-b35a-ce6db36d5217",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "3315ced7-ce97-52f6-8351-dee5ff819e89",
+    "company_id": "CMP-00062",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "ae383d30-6341-51d1-9f5b-255d7a9ec5b0",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "5b9d8a85-31a1-5560-b49a-6fe925a9551f",
+    "company_id": "CMP-00063",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "6686b45c-e432-5285-8581-6f09734d5d9a",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "272d7b32-1a89-5265-b4e0-8dc81b7ca046",
+    "company_id": "CMP-00064",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "e90c3b2f-7992-5e89-908e-6d76b2378d22",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "f0b0793e-935a-5150-9fe6-d8293ec2bf3f",
+    "company_id": "CMP-00065",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "18fb8bec-1bca-5d6a-8d89-19583a6feaf1",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "fc0be1de-effc-580a-b0ec-c2726845b2c0",
+    "company_id": "CMP-00066",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "44f0dcff-2e62-54e5-ba37-b0cf81435d21",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "dce985bd-c000-5891-8980-9699bdbfeba9",
+    "company_id": "CMP-00067",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9c1f0358-61e9-5869-b9fa-40cf504d57b7",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "2f2c3992-06c0-57cd-884f-64b37f810723",
+    "company_id": "CMP-00068",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "685c0132-2fc6-54a2-95e4-88ed5935f4a5",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "b7038f48-4e2f-5aeb-80cf-3874821ad6ae",
+    "company_id": "CMP-00069",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "7e73e0ab-51ec-5c45-b985-595e8dfd62cb",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "4ad9d94d-7678-5881-82ed-634484a810f6",
+    "company_id": "CMP-00070",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9c117078-6baf-53c1-8511-c935870d6005",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "3455738c-5b7f-5d98-b332-80d10eaec3d9",
+    "company_id": "CMP-00071",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "57d7e9bd-1ab0-5b53-bb69-524dc69f4c13",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "cf5ae963-527e-5910-9558-814ad5fc0f53",
+    "company_id": "CMP-00072",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "91916dcf-7321-56c9-aca6-71b6f5a205c9",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "439e53b0-0898-5f03-941f-0810c0969683",
+    "company_id": "CMP-00073",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "57fa053c-8469-5fea-8d23-23164991836d",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "a18c77bd-c6dd-5229-90ee-9949736e7fba",
+    "company_id": "CMP-00074",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "b965c0a4-3773-55e0-83ef-96f27a6c00e2",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "12f80ed8-7244-5667-aa59-a7426d125e27",
+    "company_id": "CMP-00075",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "0be0b215-244d-54c3-9cdc-31a8a8f14197",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "39958252-e869-57ac-b688-3c15db6484f4",
+    "company_id": "CMP-00076",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "a97545d2-fa0f-56aa-91bc-da7e3aadfbd6",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "f30ab6a3-7856-5de9-aff1-4847d91d8eee",
+    "company_id": "CMP-00077",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "f1ae2f4b-bfa5-54e4-b8d5-d87bc2032930",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "93633d49-3b0a-57d2-accb-961ac7b4102c",
+    "company_id": "CMP-00078",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "0f7d7b45-a27d-55fc-a841-a19a0eaeb8c0",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "24cde538-b3f8-52f3-a178-e0506e8d1c81",
+    "company_id": "CMP-00079",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "d3ca66fd-d267-53a9-a7d5-99ef67f8df39",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "5ac6e885-e1e8-51d4-baa9-0880c3672b47",
+    "company_id": "CMP-00080",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "1c81890a-02ce-5568-9918-430c592e63a9",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "571042b3-8e35-5ab9-98d4-1a151bddf61e",
+    "company_id": "CMP-00081",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "1100b46f-0b79-5f90-9cd8-f55e297c2f97",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "cf17497c-2ed6-5da8-a471-d70c9a740dc8",
+    "company_id": "CMP-00082",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "1cb2a5bd-02b4-5caa-ae48-11c8a6f6ca46",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "57932e85-e4ea-5ef0-b614-7f10423e6361",
+    "company_id": "CMP-00083",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "2a2387d9-9036-512c-8970-c268b2af4db8",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "f7a5fa3f-d67c-5b44-b653-13af430cd8bd",
+    "company_id": "CMP-00084",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "43f4d78e-733f-5e71-88bc-f2d02bb69161",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "603f302f-ac14-5867-b6d4-b9fab4e87694",
+    "company_id": "CMP-00085",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "252430eb-2c30-5098-8bec-adcc4c947314",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "dca65de4-d1d4-5863-83bb-351b8d1e0a24",
+    "company_id": "CMP-00086",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "ffb7f93f-7550-53d6-b498-81961125610c",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "0e7c5181-4a99-57f5-a717-45715cc33324",
+    "company_id": "CMP-00087",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "552a171d-0801-5a53-a95c-a857e26f2699",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "cfb36eab-68a5-5446-8e4d-6aa776cfe1ba",
+    "company_id": "CMP-00088",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "e70311e0-5c24-597b-9975-66a606f42734",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "9f25e10a-8489-5040-b9e5-fc6ac16fa42f",
+    "company_id": "CMP-00089",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "fb97792b-4c47-59e5-9361-1eb9587879b8",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "61b27cae-194e-5f06-a0fc-2148c4b819f3",
+    "company_id": "CMP-00090",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "3737fc12-5a31-5cb6-ae22-ae4970719bec",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "518ed76d-a004-5193-a9a6-7b32103f1d39",
+    "company_id": "CMP-00091",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "6a3903f9-ba0b-501f-8da3-767946e11c86",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "51991608-68c6-5117-bb51-4a8396123d66",
+    "company_id": "CMP-00092",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "1109a7ce-4360-525b-9d3e-3da1860c3a29",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "7e4ef894-74c2-56e9-b143-249f9eeb4824",
+    "company_id": "CMP-00093",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "13ded870-0eeb-5f16-a3a8-a8224ca3a490",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "14de7e6a-e269-5200-8221-ce8d8b48fbb7",
+    "company_id": "CMP-00094",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "847f8cbd-535e-5783-9ffa-9b3b52f10d6e",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "be306b34-cfb8-5327-8060-a9dd2c450b18",
+    "company_id": "CMP-00095",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "9a5fb6a6-41d9-509a-b255-95203cee0c3e",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "8e141e4d-35f5-5d79-b0a8-93293137ae0f",
+    "company_id": "CMP-00096",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "48390d40-ecc8-5018-934e-4666277bb8ec",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "534bedab-09a1-5b98-a582-90960977244a",
+    "company_id": "CMP-00097",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "2f0ade7c-701d-5d87-8aab-2efca8b2f7fd",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "4fb3c34c-7e37-501a-8440-2927c46b0407",
+    "company_id": "CMP-00098",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "b9bf63aa-0e62-5167-948f-dced5d0d391d",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "df6e9f35-e6b5-5926-bc01-42615b9a2e12",
+    "company_id": "CMP-00099",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "dee42fc0-056f-5625-b66b-9d3e3c684686",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "b55ef7b2-1aed-5dfd-aadb-5fd1cec18ee7",
+    "company_id": "CMP-00100",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "a6a8bfd4-9dc9-5e3a-9098-10c288972cff",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "817dba45-58c9-5ee7-96cb-27ee542fc4e9",
+    "company_id": "CMP-00001",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "fbc91d18-b047-5c35-a3cf-725846fe580e",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "6438f65b-a470-59b8-8359-a6a239d990e8",
+    "company_id": "CMP-00002",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "05d5b01e-0016-5e80-8078-1935c7a69ff8",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "a82941e0-3520-5493-a043-fdc0b13af64b",
+    "company_id": "CMP-00003",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "2dc807e0-943d-5572-a2ec-c0898ff29fc5",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "d280ab36-f7b8-59dd-ac2d-8f18fb44541c",
+    "company_id": "CMP-00004",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "2f6f8f35-50f3-5986-8370-6cb274858f5f",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "11a980ee-66ee-5b7c-ad9a-a7d599c7a843",
+    "company_id": "CMP-00005",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "00bcf8b8-f14c-5f08-834a-aeb2f9488f96",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "86540efb-95f6-56a4-b13c-76a236d67ad6",
+    "company_id": "CMP-00006",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "1924e952-7ebc-5a95-b3e6-4676bc1f3357",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "6c98778b-088d-5dfa-95cb-7030b480b628",
+    "company_id": "CMP-00007",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "b8ec0b29-9b3a-5797-835a-c165ce42604d",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "27292069-ffe8-5cc8-822d-d2abe23c98ee",
+    "company_id": "CMP-00008",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "bd5bf562-f1d7-57d5-9253-0295e2ad557f",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "88d3012e-d4d6-5add-bc79-1bbde5dd8de2",
+    "company_id": "CMP-00009",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "153dbf80-d87d-5100-ad78-48a8f194ad14",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "dacae2be-f456-5800-8d7b-6e082d3b40ae",
+    "company_id": "CMP-00010",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "ae659ad4-0b63-5c81-8207-d294584453c1",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "8eedd42e-a25d-5236-9f22-821e94a2b166",
+    "company_id": "CMP-00011",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "c4a9bbe2-31f1-5d61-b1f6-4db89c2345d8",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "09b50919-35db-5dff-9636-47a75c42a9e3",
+    "company_id": "CMP-00012",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "cfed8f37-da43-5afa-8591-c5fc7c4aec49",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "f00be1f5-125a-564c-b591-8dcc02cdb5ff",
+    "company_id": "CMP-00013",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "52a67555-de33-5ccb-96c4-f8c31bdc8179",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "0228d238-0616-50ea-834c-013e86974148",
+    "company_id": "CMP-00014",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "68e5ce86-34e7-53aa-89c7-47b2e9de1239",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "e11abef2-87c0-56ba-a986-b69d8786c7e5",
+    "company_id": "CMP-00015",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "ce069683-e92f-54b7-88c4-0f4c9095c8e1",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "c4d5e71e-1134-5427-8350-0ae0f60613ba",
+    "company_id": "CMP-00016",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "4a22c447-e668-54da-8809-2ea4b726091f",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "c36e9ee4-d727-5bd6-b44e-5a5b46207ee9",
+    "company_id": "CMP-00017",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "30026438-31da-5cde-bfe6-1d34986c5f2d",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "c0f6187a-93b5-5fcb-a072-4aa59167e8bd",
+    "company_id": "CMP-00018",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "d1b5c617-4154-5d78-b140-5e1e340dedb3",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "5b2ef74d-c9dc-52d0-8be2-a46430bd9517",
+    "company_id": "CMP-00019",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "1dd01794-ea7f-5dbf-a90e-693849589572",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "6d04eb6f-560f-5a93-9d89-9862aec2f2c1",
+    "company_id": "CMP-00020",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "15454ac4-80a9-5d2a-a24b-62b5beaf72d5",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "b6ef695b-49bb-58ae-9ccf-b920d90c94be",
+    "company_id": "CMP-00021",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "7dd11e18-794a-5746-9396-db319f79a4b2",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "fe89ad19-ec0a-59d9-843e-71ff7747b0a7",
+    "company_id": "CMP-00022",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "2d5854e2-607d-55b3-8f7e-1a956014886a",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "11e8ab08-d58f-56d9-9bba-d2b24705df32",
+    "company_id": "CMP-00023",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "1786253e-6d94-54cb-8fba-7aba36893338",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "fcda0a0d-93b9-5598-a6d6-3eb4d6394bf3",
+    "company_id": "CMP-00024",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "47902780-2f1c-5804-837e-387b5595ef3e",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "cbf47089-e8ea-5c42-bb84-3e7dc994d6cc",
+    "company_id": "CMP-00025",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "38162444-4406-58c5-b4e4-0f295dd22ea3",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "14d5e96b-6b6c-52f3-aea0-2f053118872a",
+    "company_id": "CMP-00026",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "a8f3086d-4850-5ccf-bb4a-dab82dfe2b43",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "b022eb2e-c48f-5114-a22e-0af4ae2e0f49",
+    "company_id": "CMP-00027",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "d0cbba17-a948-52ec-ab2b-396c9ca0a77f",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "7ee98ebd-69f6-5f97-b950-dc794f5d04d9",
+    "company_id": "CMP-00028",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "9afa55b4-c5b5-59f0-9a44-6e60bdee1158",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "fc3c3e08-1f37-5ae5-bc79-6ffcfbba5cf1",
+    "company_id": "CMP-00029",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9cd85dfd-5276-5faf-93d3-68406da52656",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "79783368-8f67-57de-8123-8beac559ac55",
+    "company_id": "CMP-00030",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "31d161d0-be4d-511f-90d3-a9e66ed33cd0",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "484dbdce-b0f0-5c2a-8702-23bd4c647577",
+    "company_id": "CMP-00031",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "d84fc5be-ca69-5a63-a0fc-65db733ca991",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "95945aaa-1ded-5903-a9f9-55cc642de0a6",
+    "company_id": "CMP-00032",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "86f4b123-a188-56b7-8434-804c5e1a35d3",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "3d822a2e-648e-5f5f-9078-737e72d5b627",
+    "company_id": "CMP-00033",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "9476c107-f79b-55d3-8a31-82d1a781074b",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "9c741b6e-cad2-5ba1-bff4-c3b2714ac5af",
+    "company_id": "CMP-00034",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "e6e0e15c-7f13-548f-b16d-eedd133ebb85",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "8d2b3d58-3768-5e0c-a412-64577226173d",
+    "company_id": "CMP-00035",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "da2f5474-966b-587e-aafc-3e2599af37a9",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "16eb6d3d-aa32-5bbc-a318-7892d806fdf9",
+    "company_id": "CMP-00036",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "a4ddb28b-36f7-5dae-bb63-0e2f3a7937b1",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "5f21cd8a-c6f9-5e89-8b90-3aed69955087",
+    "company_id": "CMP-00037",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "b5da8f86-33c1-5bec-8008-0774a9f562e4",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "9c72f84f-4695-54ba-b335-bd62643502bd",
+    "company_id": "CMP-00038",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "139b5ff1-317a-592a-af8e-cd050df22c08",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "cd03334d-3536-5a32-872a-70a91ba49047",
+    "company_id": "CMP-00039",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "e6121792-c2a6-5a00-9aac-03ec846fceec",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "3c440ab4-2653-56f0-8d3e-b6bf2cf529f4",
+    "company_id": "CMP-00040",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "cae873c2-0b48-5adb-9225-82ac0ebbd931",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "91cad7c9-a502-57f8-9c32-46f3f431232a",
+    "company_id": "CMP-00041",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "135a777a-a708-58fa-b690-3a3edaf77849",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "72a53f1c-2070-55bb-aeb6-deb477224fb9",
+    "company_id": "CMP-00042",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "7bf6019a-700c-5bda-91be-b789b2c4704c",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "e33bee56-5f19-5407-9947-334846593220",
+    "company_id": "CMP-00043",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "8a4d8707-958f-58ee-8d19-b3f7c5e80ca9",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "0c44d38f-3e42-58fc-b748-785e32d7cc82",
+    "company_id": "CMP-00044",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "7ef0df5e-5236-5db8-8678-4a35281535a8",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "5a302e53-eb6d-55a7-90c8-b2945751fc14",
+    "company_id": "CMP-00045",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "3c319811-e19d-5b40-a47d-51d1b6fddadc",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "ad332cac-81d2-5e8f-8e33-a55343f9fd31",
+    "company_id": "CMP-00046",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9ba4ef7e-6e4d-54dd-8ecc-f67972271698",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "c037d441-d10f-5000-85d5-b5da75ce5975",
+    "company_id": "CMP-00047",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "970ed877-aa09-534a-b5cb-0f7ed60e1f9b",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "765ed337-4868-526d-ab66-3b0bf044f20b",
+    "company_id": "CMP-00048",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "67a6d0c5-4d25-5fdb-82b4-ea34dba21c8d",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "0855bd7f-2aa5-5615-85a2-4326ecd3155d",
+    "company_id": "CMP-00049",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "80fe1bab-ba21-5dad-a3c5-566ecc4e556b",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "da8d6f89-e587-514f-a150-d38a3fada8fe",
+    "company_id": "CMP-00050",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "e1cf595e-3aac-5889-bd80-746fbb7912dd",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "d242feef-eedf-5972-8042-71c8b5f99711",
+    "company_id": "CMP-00051",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "b1ddc2d9-e062-57d9-960b-7e5ed2cec51a",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "6986c77a-124d-5599-a5c3-6f75cf5def61",
+    "company_id": "CMP-00052",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "5d87f983-56ed-5f31-b025-0bdde4ce59b6",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "973bdabb-2d6f-5396-acea-c20bd01ff05e",
+    "company_id": "CMP-00053",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "491d93a2-cae2-5d1b-aac8-333305bd7da7",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "df31d300-883a-5930-9979-c7539870addc",
+    "company_id": "CMP-00054",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "8220331f-8a94-583d-b407-4a751f94bb14",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "1581c7fd-fef2-52cb-89db-b984da49d198",
+    "company_id": "CMP-00055",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "6857262c-5ee0-5cc5-9ac4-9ec344254859",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "eb469908-fea0-5a9d-9e29-b4e44e775669",
+    "company_id": "CMP-00056",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "98d4cdca-6fc5-506f-81f9-3bae35588496",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "7e32b596-be1c-53f8-bcd8-67e1ebb2edc6",
+    "company_id": "CMP-00057",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "df667736-dd64-5373-bb63-5f72d05752c6",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "540db229-af8b-5ddc-8d63-9572b8a24585",
+    "company_id": "CMP-00058",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "fcc45b61-6016-5e39-8e7c-15dffd53df3e",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "f7406799-11ac-511b-bf8a-5784bd5caf82",
+    "company_id": "CMP-00059",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "d278218b-d4b3-5177-9513-fa8c8daea94c",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "6cbb85fd-16ef-5e75-a15e-98fa282a81d3",
+    "company_id": "CMP-00060",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "f59c1d6b-af1d-5ca5-b36e-5374adaa805c",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "273d1b84-92f1-5099-9008-04d4320cba6d",
+    "company_id": "CMP-00061",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "03500031-37af-53c3-a775-57f3eef2f0b0",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "3315ced7-ce97-52f6-8351-dee5ff819e89",
+    "company_id": "CMP-00062",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "2d0d81ae-f731-5bd8-bd82-cfa001148768",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "5b9d8a85-31a1-5560-b49a-6fe925a9551f",
+    "company_id": "CMP-00063",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "cde1e5a7-963d-5b0a-bf3d-e1ff709abb53",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "272d7b32-1a89-5265-b4e0-8dc81b7ca046",
+    "company_id": "CMP-00064",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "b56ebaac-8389-5099-b455-3c8d9abbfffb",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "f0b0793e-935a-5150-9fe6-d8293ec2bf3f",
+    "company_id": "CMP-00065",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "71986180-c89c-5f7a-bb83-29ae4fbd86a8",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "fc0be1de-effc-580a-b0ec-c2726845b2c0",
+    "company_id": "CMP-00066",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "7e1ca727-1516-59a6-aef7-d9666bea558f",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "dce985bd-c000-5891-8980-9699bdbfeba9",
+    "company_id": "CMP-00067",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "fc96589e-8f2d-5c5d-9a9d-9dc39b5de26f",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "2f2c3992-06c0-57cd-884f-64b37f810723",
+    "company_id": "CMP-00068",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "ceee4fc2-81b0-586b-b8e2-10d1d156b360",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "b7038f48-4e2f-5aeb-80cf-3874821ad6ae",
+    "company_id": "CMP-00069",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "a57ff60f-3a30-5ae6-9df4-e1ae2cee6cc9",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "4ad9d94d-7678-5881-82ed-634484a810f6",
+    "company_id": "CMP-00070",
+    "status": "SUBMITTED",
+    "scenario_id": "PROVIDER_UNAVAILABLE",
+    "scenario_description": "Data-only flag indicating future provider test should simulate service outage."
+  },
+  {
+    "id": "5c205bdc-d2be-5b50-af42-1e79180a60ed",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "3455738c-5b7f-5d98-b332-80d10eaec3d9",
+    "company_id": "CMP-00071",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "a32c3f05-4f11-51f8-82ec-557d4029afab",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "cf5ae963-527e-5910-9558-814ad5fc0f53",
+    "company_id": "CMP-00072",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "8b242020-0d49-5a6b-b634-d5a75b87b3be",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "439e53b0-0898-5f03-941f-0810c0969683",
+    "company_id": "CMP-00073",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_LOCAL_CONTENT",
+    "scenario_description": "Declared local content percentage is below the mandatory tender threshold."
+  },
+  {
+    "id": "e09a4d71-fe0a-5a44-b557-f79aa00ba68f",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "a18c77bd-c6dd-5229-90ee-9949736e7fba",
+    "company_id": "CMP-00074",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "992471be-4bdb-526b-bff7-13a1574478e8",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "12f80ed8-7244-5667-aa59-a7426d125e27",
+    "company_id": "CMP-00075",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "b7d5c351-1a4e-5608-a4dd-9c24b70a44e9",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "39958252-e869-57ac-b688-3c15db6484f4",
+    "company_id": "CMP-00076",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "15747afb-59a0-584b-925b-0269fe61eede",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "f30ab6a3-7856-5de9-aff1-4847d91d8eee",
+    "company_id": "CMP-00077",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "283e3814-82b7-5f8f-be0e-15487191dfe4",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "93633d49-3b0a-57d2-accb-961ac7b4102c",
+    "company_id": "CMP-00078",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "a189089c-a249-584f-98de-1ba5d61df748",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "24cde538-b3f8-52f3-a178-e0506e8d1c81",
+    "company_id": "CMP-00079",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "817985e1-9851-591c-87b2-21899ad628e1",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "5ac6e885-e1e8-51d4-baa9-0880c3672b47",
+    "company_id": "CMP-00080",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "7beabc69-1f32-5157-ba76-3716ae3ca9b2",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "571042b3-8e35-5ab9-98d4-1a151bddf61e",
+    "company_id": "CMP-00081",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "43e58538-0970-5242-aebe-18fa25cf07eb",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "cf17497c-2ed6-5da8-a471-d70c9a740dc8",
+    "company_id": "CMP-00082",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "7e6f8ca4-3252-593e-863f-766ebe2672f8",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "57932e85-e4ea-5ef0-b614-7f10423e6361",
+    "company_id": "CMP-00083",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9d93b449-deca-5e90-8797-fcd1c7a2804f",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "f7a5fa3f-d67c-5b44-b653-13af430cd8bd",
+    "company_id": "CMP-00084",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "9d8f0e43-423b-532d-abec-b41e3634716a",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "603f302f-ac14-5867-b6d4-b9fab4e87694",
+    "company_id": "CMP-00085",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "8242f438-8466-56ec-8327-9b5a49e70cbf",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "dca65de4-d1d4-5863-83bb-351b8d1e0a24",
+    "company_id": "CMP-00086",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "161e790e-c2a9-5406-95f8-55e1b2f1e7b6",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "0e7c5181-4a99-57f5-a717-45715cc33324",
+    "company_id": "CMP-00087",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "2a627837-73c4-5ad8-8df0-5e58c7398536",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "cfb36eab-68a5-5446-8e4d-6aa776cfe1ba",
+    "company_id": "CMP-00088",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "005f79a2-fbc4-53ca-b2df-ec979459f0ab",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "9f25e10a-8489-5040-b9e5-fc6ac16fa42f",
+    "company_id": "CMP-00089",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "755b3dff-2e78-5b65-a3ef-20424b47dd44",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "61b27cae-194e-5f06-a0fc-2148c4b819f3",
+    "company_id": "CMP-00090",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "4cda6c24-1eea-5f61-a6f4-f52ca0b81a62",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "518ed76d-a004-5193-a9a6-7b32103f1d39",
+    "company_id": "CMP-00091",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "e995ca3a-11b9-53a7-bf6a-fe4ad04fdecb",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "51991608-68c6-5117-bb51-4a8396123d66",
+    "company_id": "CMP-00092",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "d0117448-dba6-5ca6-8690-947504fa9de9",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "7e4ef894-74c2-56e9-b143-249f9eeb4824",
+    "company_id": "CMP-00093",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "52a7f1e1-84ec-5aa9-92f1-2ed904d0bba9",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "14de7e6a-e269-5200-8221-ce8d8b48fbb7",
+    "company_id": "CMP-00094",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "e8f6d5e2-c451-5741-8fb6-9c5017bd4c16",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "be306b34-cfb8-5327-8060-a9dd2c450b18",
+    "company_id": "CMP-00095",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "2633da9f-aea3-5aaf-ae08-d09b25c44775",
+    "tender_id": "4c05fdda-2dc8-5426-b85c-902513620a46",
+    "bidder_id": "8e141e4d-35f5-5d79-b0a8-93293137ae0f",
+    "company_id": "CMP-00096",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "fe3a734b-7d60-5c56-9eee-c50d3b72dec6",
+    "tender_id": "79dea678-85bb-50c0-9f63-12e1d3bdaa35",
+    "bidder_id": "534bedab-09a1-5b98-a582-90960977244a",
+    "company_id": "CMP-00097",
+    "status": "SUBMITTED",
+    "scenario_id": "PAN_MISMATCH",
+    "scenario_description": "PAN identifier on bidder document differs from government PAN record."
+  },
+  {
+    "id": "080b9839-1c3a-5eaa-871c-98a45235d667",
+    "tender_id": "c50bf80a-d0cd-569b-bc66-87a18f8ba632",
+    "bidder_id": "4fb3c34c-7e37-501a-8440-2927c46b0407",
+    "company_id": "CMP-00098",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9b5c3eb6-4eb3-5b7a-8196-2b9d6e0d82ea",
+    "tender_id": "fab6ec9c-97c4-52e1-bb6a-e957419f2cf7",
+    "bidder_id": "df6e9f35-e6b5-5926-bc01-42615b9a2e12",
+    "company_id": "CMP-00099",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "c4d1b5e8-ef5a-5970-9339-646d4c788c96",
+    "tender_id": "95c6efb2-df6b-5a77-a192-e3996434b4b8",
+    "bidder_id": "b55ef7b2-1aed-5dfd-aadb-5fd1cec18ee7",
+    "company_id": "CMP-00100",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "e0259362-86cf-517c-a576-ae8b6d8e8eb6",
+    "tender_id": "bbff3d61-73aa-5b0b-a224-bfd5cad5d507",
+    "bidder_id": "817dba45-58c9-5ee7-96cb-27ee542fc4e9",
+    "company_id": "CMP-00001",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "462b13a2-d533-5e6b-b1d7-d672701c9353",
+    "tender_id": "0119d588-2b92-5ad5-b167-d0236b0d54d0",
+    "bidder_id": "6438f65b-a470-59b8-8359-a6a239d990e8",
+    "company_id": "CMP-00002",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "3a21810a-115c-5957-a689-2c8b50b0a1b0",
+    "tender_id": "785537ba-fcc3-5709-93a0-fe99d722d6ad",
+    "bidder_id": "a82941e0-3520-5493-a043-fdc0b13af64b",
+    "company_id": "CMP-00003",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "bcfcef46-8e2d-5f39-bc07-3310fb0bb465",
+    "tender_id": "a29229ba-1d74-5999-8414-4e51bc25a3f3",
+    "bidder_id": "d280ab36-f7b8-59dd-ac2d-8f18fb44541c",
+    "company_id": "CMP-00004",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "580ff9ee-315a-5c58-8261-a3c08aba1c13",
+    "tender_id": "cce363a0-bb60-5039-a4f7-00f5a5292734",
+    "bidder_id": "11a980ee-66ee-5b7c-ad9a-a7d599c7a843",
+    "company_id": "CMP-00005",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "39d39777-ff34-51b7-9d15-015719660074",
+    "tender_id": "c4abb368-dae9-50dc-98a1-bd6699e069bf",
+    "bidder_id": "86540efb-95f6-56a4-b13c-76a236d67ad6",
+    "company_id": "CMP-00006",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  },
+  {
+    "id": "9631c539-5f3b-57dd-8ae1-394f91d41068",
+    "tender_id": "c6c35b72-02c3-5523-952e-8d3acae6562d",
+    "bidder_id": "6c98778b-088d-5dfa-95cb-7030b480b628",
+    "company_id": "CMP-00007",
+    "status": "SUBMITTED",
+    "scenario_id": "COMPLIANT",
+    "scenario_description": "Fully compliant bidder; all document fields match canonical records."
+  },
+  {
+    "id": "9db23639-6b19-59a0-977f-0c55bb298307",
+    "tender_id": "04177337-32d5-53ba-bc00-b4c81ceebcf1",
+    "bidder_id": "27292069-ffe8-5cc8-822d-d2abe23c98ee",
+    "company_id": "CMP-00008",
+    "status": "SUBMITTED",
+    "scenario_id": "MISSING_DOCUMENT",
+    "scenario_description": "A mandatory required document is omitted from the submission dossier."
+  },
+  {
+    "id": "92619dcb-4c5a-5efe-8b2e-6ec483c4d945",
+    "tender_id": "98638d44-d858-5212-9540-6345c92ee80c",
+    "bidder_id": "88d3012e-d4d6-5add-bc79-1bbde5dd8de2",
+    "company_id": "CMP-00009",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "9b54d0fe-9352-58f6-85f4-f0a1c3b6f400",
+    "tender_id": "deb71f82-4d0c-5dab-8a58-4f698e36ad8a",
+    "bidder_id": "dacae2be-f456-5800-8d7b-6e082d3b40ae",
+    "company_id": "CMP-00010",
+    "status": "SUBMITTED",
+    "scenario_id": "GST_MISMATCH",
+    "scenario_description": "GST identifier on bidder certificate differs from government registry record."
+  },
+  {
+    "id": "ba223a32-3e7c-5e1c-9547-c19778302d1f",
+    "tender_id": "ec92e6e6-2528-5cf6-9e50-5f4a0429c308",
+    "bidder_id": "8eedd42e-a25d-5236-9f22-821e94a2b166",
+    "company_id": "CMP-00011",
+    "status": "SUBMITTED",
+    "scenario_id": "LOW_TURNOVER",
+    "scenario_description": "Bidder annual turnover is below the mandatory tender threshold."
+  },
+  {
+    "id": "0f093579-97a8-563d-8838-8deca215fc72",
+    "tender_id": "36a8d1b5-986f-5430-8bec-2707464820f6",
+    "bidder_id": "09b50919-35db-5dff-9636-47a75c42a9e3",
+    "company_id": "CMP-00012",
+    "status": "SUBMITTED",
+    "scenario_id": "MULTIPLE_ISSUES",
+    "scenario_description": "Compound inconsistency: low turnover, expired certificate, and omitted OEM."
+  },
+  {
+    "id": "347494c3-642c-51b3-b948-7871ad949139",
+    "tender_id": "32808b54-daa8-5bb5-809f-6d83ee771d8b",
+    "bidder_id": "f00be1f5-125a-564c-b591-8dcc02cdb5ff",
+    "company_id": "CMP-00013",
+    "status": "SUBMITTED",
+    "scenario_id": "EXPIRED_CERTIFICATE",
+    "scenario_description": "Certificate issue/validity dates show the document is expired."
+  },
+  {
+    "id": "0b3eaa08-8002-5eb5-b11d-b9323a5ce6ea",
+    "tender_id": "7a567981-febf-5c14-952e-efe8ab5e02d7",
+    "bidder_id": "0228d238-0616-50ea-834c-013e86974148",
+    "company_id": "CMP-00014",
+    "status": "SUBMITTED",
+    "scenario_id": "CROSS_DOCUMENT_CONFLICT",
+    "scenario_description": "Different bidder documents in the same dossier contain conflicting values."
+  },
+  {
+    "id": "0dad2a79-4efd-532f-9bf6-6523928856ed",
+    "tender_id": "d7a9c285-4857-5b4d-99ac-f1ae8818d479",
+    "bidder_id": "e11abef2-87c0-56ba-a986-b69d8786c7e5",
+    "company_id": "CMP-00015",
+    "status": "SUBMITTED",
+    "scenario_id": "BLACKLISTED",
+    "scenario_description": "Bidder has an active blacklisting/debarment order from a public authority."
+  }
+]
